@@ -26,7 +26,7 @@ Si no queremos entrar a ciegas en el primer restaurante que nos crucemos en nues
   * Ahorrar tiempo.
   * Evitar malas experiencias.
 
-### Investigaciòn:
+#### Investigaciòn:
 
 La mayoría de las personas disfrutan comiendo y, más allá de una simple necesidad física, para muchas se convierte en una auténtica experiencia para su deleite particular.
 
@@ -39,7 +39,7 @@ Actualmente existen varios buscadores de restaurantes entre los que se encuentra
   De acuerdo a esta informaciòn, se realizò una encuesta para conocer el impacto que tienen estas aplicaciones en los usuarios.
 
   [Encuesta en Typeform](https://judith207.typeform.com/to/pJ4Mea)
-  ![Encuesta en Typeform](http://i63.tinypic.com/2rhwcvc.png)
+  ******************************![Encuesta en Typeform](http://i63.tinypic.com/2rhwcvc.png)**************************************
 
   Las preguntas que contiene esta encuesta son las siguientes:
 
@@ -65,6 +65,10 @@ Actualmente existen varios buscadores de restaurantes entre los que se encuentra
 * En México, alrededor del 17% de las personas, desayunan, 58% comen y 43% cenan fuera de casa con cierta frecuencia, lo que podría significar que los mexicanos no sólo reservan la comida fuera para las ocasiones especiales.
 
 ####  Sketching
+
+![IMG](http://i67.tinypic.com/25qae0w.jpg)
+
+![IMG](http://i67.tinypic.com/25qae0w.jpg)
 
 
 #### Logo, fuente y paleta de colores:
