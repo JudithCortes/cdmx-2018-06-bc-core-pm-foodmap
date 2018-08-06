@@ -68,7 +68,7 @@ Actualmente existen varios buscadores de restaurantes entre los que se encuentra
 
 ![IMG](http://i67.tinypic.com/25qae0w.jpg)
 
-![IMG](http://i67.tinypic.com/25qae0w.jpg)
+![IMG](http://es.tinypic.com/r/ziq49t/9)
 
 
 #### Logo, fuente y paleta de colores:
