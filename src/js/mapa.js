@@ -2,6 +2,7 @@
 
 let divMapa = document.getElementById("mapa");
 navigator.geolocation.getCurrentPosition(fn_ok, fn_mal);
+
 function fn_mal(){}
 
 function fn_ok(rta){
@@ -12,7 +13,8 @@ function fn_ok(rta){
   
   let objConfig = {
     zoom : 17,
-    center : gLatLon
+    center : gLatLon,
+    
   }
 
   let gMapa = new google.maps.Map( divMapa, objConfig);
@@ -45,4 +47,3 @@ function fn_ok(rta){
 
   }
 }
-
