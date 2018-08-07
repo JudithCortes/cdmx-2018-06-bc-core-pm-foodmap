@@ -8,6 +8,7 @@ header{
 
   text-align: center;
   height: 240px;
+  width: 994px;
   padding: 35px 0 0;
   background-color: #e82535;
 
@@ -36,4 +37,5 @@ h4{
 footer{
   background: #e82535;
   height: 180px;
+  width: 994px;
 }
